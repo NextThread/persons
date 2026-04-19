@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+.venv/
+person_env/
+
+# ML models (important)
+*.pt
+*.pth
+
+# Mac
+.DS_Store
